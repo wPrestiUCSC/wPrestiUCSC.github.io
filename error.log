@@ -102,3 +102,23 @@ To github.com:wPrestiUCSC/wPrestiUCSC.github.io.git
    676d798..c16ac9e  master -> master
 
 
+----------
+
+Thu Aug 22 2019 14:52:28 GMT-0700 (PDT)
+
+To github.com:wPrestiUCSC/wPrestiUCSC.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:wPrestiUCSC/wPrestiUCSC.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+
+
+----------
+
+Thu Aug 22 2019 14:52:28 GMT-0700 (PDT)
+
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
